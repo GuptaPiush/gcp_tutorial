@@ -1,1 +1,12 @@
-Welcome
+Hierarchy Overview
+====================
+Organisation
+Project
+Resources
+
+Projects: Core organization component of GCP
+There are 3 attribute to identify the projects
+Project Name : Friendly name and it can be changed after project creation
+Project ID : Application ID and it can not be chnaged and its unique
+Project Number
+
